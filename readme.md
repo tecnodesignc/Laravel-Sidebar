@@ -1,5 +1,3 @@
-# WARNING! Not actively supported or maintained.
-
 # Laravel Sidebar
 
 [![GitHub release](https://img.shields.io/github/release/Maatwebsite/Laravel-Sidebar.svg?style=flat)](https://packagist.org/packages/maatwebsite/laravel-sidebar)
@@ -14,7 +12,7 @@
 Require this package in your `composer.json` and run `composer update`.
 
 ```php
-"maatwebsite/laravel-sidebar": "~2.1"
+"tecnodesingc/laravel-sidebar": "~2.6"
 ```
 
 After updating composer, add the ServiceProvider to the providers array in `config/app.php`
