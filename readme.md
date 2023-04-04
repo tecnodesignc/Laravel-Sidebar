@@ -12,7 +12,7 @@
 Require this package in your `composer.json` and run `composer update`.
 
 ```php
-"tecnodesingc/laravel-sidebar": "~2.6"
+"tecnodesignc/laravel-sidebar": "~2.7"
 ```
 
 After updating composer, add the ServiceProvider to the providers array in `config/app.php`
